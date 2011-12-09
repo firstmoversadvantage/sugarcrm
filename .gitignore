@@ -1,0 +1,5 @@
+config_override.php
+sugarcrm.log
+install.log
+config.php
+cache/smarty/templates_c/*
